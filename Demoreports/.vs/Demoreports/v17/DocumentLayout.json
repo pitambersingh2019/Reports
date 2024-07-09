@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\official\\DemoReports\\Demoreports\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|D:\\official\\DemoReports\\Demoreports\\demoreports\\app_plugins\\customexcelreportupload\\controllers\\customexcelreportuploadapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|solutionrelative:demoreports\\app_plugins\\customexcelreportupload\\controllers\\customexcelreportuploadapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|d:\\official\\demoreports\\demoreports\\demoreports\\views\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|solutionrelative:demoreports\\views\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|d:\\official\\demoreports\\demoreports\\demoreports\\views\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|solutionrelative:demoreports\\views\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|D:\\official\\DemoReports\\Demoreports\\demoreports\\views\\reports.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|solutionrelative:demoreports\\views\\reports.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|D:\\official\\DemoReports\\Demoreports\\demoreports\\app_plugins\\customexcelreportupload\\views\\customexcelreportupload.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|solutionrelative:demoreports\\app_plugins\\customexcelreportupload\\views\\customexcelreportupload.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|D:\\official\\DemoReports\\Demoreports\\demoreports\\app_plugins\\customexcelreportupload\\js\\customexcelreportupload.controller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|solutionrelative:demoreports\\app_plugins\\customexcelreportupload\\js\\customexcelreportupload.controller.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|D:\\official\\DemoReports\\Demoreports\\demoreports\\app_plugins\\customexcelreportupload\\package.manifest||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|solutionrelative:demoreports\\app_plugins\\customexcelreportupload\\package.manifest||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|D:\\official\\DemoReports\\Demoreports\\demoreports\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|solutionrelative:demoreports\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|D:\\official\\DemoReports\\Demoreports\\demoreports\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19761B54-7B04-4404-AF78-29308330D01B}|Demoreports\\Demoreports.csproj|solutionrelative:demoreports\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\official\\DemoReports\\Demoreports\\packages\\UmbracoCms.8.18.14\\tools\\ReadmeUpgrade.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\UmbracoCms.8.18.14\\tools\\ReadmeUpgrade.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\official\\DemoReports\\Demoreports\\packages\\EPPlus.5.0.3\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\EPPlus.5.0.3\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\official\\DemoReports\\Demoreports\\packages\\UmbracoCms.8.18.14\\tools\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\UmbracoCms.8.18.14\\tools\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\official\\DemoReports\\Demoreports\\Demoreports\\Umbraco\\Config\\Lang\\en.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demoreports\\Umbraco\\Config\\Lang\\en.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\official\\DemoReports\\Demoreports\\Demoreports\\Umbraco\\Config\\Lang\\en_us.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demoreports\\Umbraco\\Config\\Lang\\en_us.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "customExcelReportUpload.controller.js",
+              "DocumentMoniker": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\App_Plugins\\CustomExcelReportUpload\\js\\customExcelReportUpload.controller.js",
+              "RelativeDocumentMoniker": "Demoreports\\App_Plugins\\CustomExcelReportUpload\\js\\customExcelReportUpload.controller.js",
+              "ToolTip": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\App_Plugins\\CustomExcelReportUpload\\js\\customExcelReportUpload.controller.js",
+              "RelativeToolTip": "Demoreports\\App_Plugins\\CustomExcelReportUpload\\js\\customExcelReportUpload.controller.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-09T04:21:38.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "en.xml",
+              "DocumentMoniker": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\Umbraco\\Config\\Lang\\en.xml",
+              "RelativeDocumentMoniker": "Demoreports\\Umbraco\\Config\\Lang\\en.xml",
+              "ToolTip": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\Umbraco\\Config\\Lang\\en.xml",
+              "RelativeToolTip": "Demoreports\\Umbraco\\Config\\Lang\\en.xml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-08T06:00:43.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomExcelReportUploadApiController.cs",
+              "DocumentMoniker": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\App_Plugins\\CustomExcelReportUpload\\Controllers\\CustomExcelReportUploadApiController.cs",
+              "RelativeDocumentMoniker": "Demoreports\\App_Plugins\\CustomExcelReportUpload\\Controllers\\CustomExcelReportUploadApiController.cs",
+              "ToolTip": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\App_Plugins\\CustomExcelReportUpload\\Controllers\\CustomExcelReportUploadApiController.cs",
+              "RelativeToolTip": "Demoreports\\App_Plugins\\CustomExcelReportUpload\\Controllers\\CustomExcelReportUploadApiController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAwwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T10:22:47.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reports.cshtml",
+              "DocumentMoniker": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\Views\\Reports.cshtml",
+              "RelativeDocumentMoniker": "Demoreports\\Views\\Reports.cshtml",
+              "ToolTip": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\Views\\Reports.cshtml",
+              "RelativeToolTip": "Demoreports\\Views\\Reports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T04:46:00.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\Views\\Search.cshtml",
+              "RelativeDocumentMoniker": "Demoreports\\Views\\Search.cshtml",
+              "ToolTip": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\Views\\Search.cshtml",
+              "RelativeToolTip": "Demoreports\\Views\\Search.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T04:47:49.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reports.cshtml",
+              "DocumentMoniker": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\Views\\Reports.cshtml",
+              "RelativeDocumentMoniker": "Demoreports\\Views\\Reports.cshtml",
+              "ToolTip": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\Views\\Reports.cshtml",
+              "RelativeToolTip": "Demoreports\\Views\\Reports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T09:02:45.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\Web.config",
+              "RelativeDocumentMoniker": "Demoreports\\Web.config",
+              "ToolTip": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\Web.config",
+              "RelativeToolTip": "Demoreports\\Web.config",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-05T10:17:47.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "customExcelReportUpload.html",
+              "DocumentMoniker": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\App_Plugins\\CustomExcelReportUpload\\views\\customExcelReportUpload.html",
+              "RelativeDocumentMoniker": "Demoreports\\App_Plugins\\CustomExcelReportUpload\\views\\customExcelReportUpload.html",
+              "ToolTip": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\App_Plugins\\CustomExcelReportUpload\\views\\customExcelReportUpload.html",
+              "RelativeToolTip": "Demoreports\\App_Plugins\\CustomExcelReportUpload\\views\\customExcelReportUpload.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-08T06:54:01.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "package.manifest",
+              "DocumentMoniker": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\App_Plugins\\CustomExcelReportUpload\\package.manifest",
+              "RelativeDocumentMoniker": "Demoreports\\App_Plugins\\CustomExcelReportUpload\\package.manifest",
+              "ToolTip": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\App_Plugins\\CustomExcelReportUpload\\package.manifest",
+              "RelativeToolTip": "Demoreports\\App_Plugins\\CustomExcelReportUpload\\package.manifest",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-07-08T04:17:36.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "en_us.xml",
+              "DocumentMoniker": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\Umbraco\\Config\\Lang\\en_us.xml",
+              "RelativeDocumentMoniker": "Demoreports\\Umbraco\\Config\\Lang\\en_us.xml",
+              "ToolTip": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\Umbraco\\Config\\Lang\\en_us.xml",
+              "RelativeToolTip": "Demoreports\\Umbraco\\Config\\Lang\\en_us.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-08T06:00:41.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\packages.config",
+              "RelativeDocumentMoniker": "Demoreports\\packages.config",
+              "ToolTip": "D:\\official\\DemoReports\\Demoreports\\Demoreports\\packages.config",
+              "RelativeToolTip": "Demoreports\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-08T05:21:14.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReadmeUpgrade.txt",
+              "DocumentMoniker": "D:\\official\\DemoReports\\Demoreports\\packages\\UmbracoCms.8.18.14\\tools\\ReadmeUpgrade.txt",
+              "RelativeDocumentMoniker": "packages\\UmbracoCms.8.18.14\\tools\\ReadmeUpgrade.txt",
+              "ToolTip": "D:\\official\\DemoReports\\Demoreports\\packages\\UmbracoCms.8.18.14\\tools\\ReadmeUpgrade.txt",
+              "RelativeToolTip": "packages\\UmbracoCms.8.18.14\\tools\\ReadmeUpgrade.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-08T05:25:34.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "readme.txt",
+              "DocumentMoniker": "D:\\official\\DemoReports\\Demoreports\\packages\\EPPlus.5.0.3\\readme.txt",
+              "RelativeDocumentMoniker": "packages\\EPPlus.5.0.3\\readme.txt",
+              "ToolTip": "D:\\official\\DemoReports\\Demoreports\\packages\\EPPlus.5.0.3\\readme.txt",
+              "RelativeToolTip": "packages\\EPPlus.5.0.3\\readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-05T10:25:33.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "D:\\official\\DemoReports\\Demoreports\\packages\\UmbracoCms.8.18.14\\tools\\Readme.txt",
+              "RelativeDocumentMoniker": "packages\\UmbracoCms.8.18.14\\tools\\Readme.txt",
+              "ToolTip": "D:\\official\\DemoReports\\Demoreports\\packages\\UmbracoCms.8.18.14\\tools\\Readme.txt",
+              "RelativeToolTip": "packages\\UmbracoCms.8.18.14\\tools\\Readme.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-05T10:20:14.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

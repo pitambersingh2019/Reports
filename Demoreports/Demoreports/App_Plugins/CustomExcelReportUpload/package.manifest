@@ -1,0 +1,41 @@
+﻿//{
+//  "dashboards": [
+//    {
+//      "alias": "customExcelReportUpload",
+//      "name": "Excel Report Upload",
+//      "sections": [ "content" ],
+//      "view": "~/App_Plugins/CustomExcelReportUpload/views/customExcelReportUpload.html",
+//      "weight": 1
+
+//    }
+//  ],
+//  "javascript": [
+//    "~/App_Plugins/CustomExcelReportUpload/js/customExcelReportUpload.controller.js"
+//  ]
+//}
+
+
+
+{
+  "sections": [
+    {
+      "alias": "Reports",
+      "name": "Reports"
+    }
+  ],
+  "dashboards": [
+    {
+      "alias": "customExcelReportUpload",
+      "name": "Excel Report Upload",
+      "sections": [ "Reports" ],
+      "view": "~/App_Plugins/CustomExcelReportUpload/views/customExcelReportUpload.html",
+      "weight": 1
+    }
+  ],
+  "javascript": [
+        "~/App_Plugins/CustomExcelReportUpload/js/customExcelReportUpload.controller.js"
+      ]
+}
+
+
+

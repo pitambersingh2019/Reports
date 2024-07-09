@@ -1,0 +1,56 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage
+@{
+    Layout = null;
+
+    var root = Model.Root().Siblings().FirstOrDefault(x => x.ContentType.Alias == "reports");
+    var reportsitems = root.Children();
+    var searchQuery = Request.QueryString["q"];
+}
+
+<form action="/search" method="get">
+    <label for="search">Search:</label>
+    <input type="text" id="search" name="q" placeholder="Search...">
+    <button type="submit">Search</button>
+</form>
+
+@if (!string.IsNullOrEmpty(searchQuery))
+{
+    var normalizedSearchQuery = searchQuery.Trim().ToLower();
+
+    if (reportsitems != null && reportsitems.Any(x => x.Value<string>("certificateReportNumber").Trim().ToLower() == normalizedSearchQuery))
+    {
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Audit Site Name</th>
+                    <th>Site Address</th>
+                    <th>Standard Name</th>
+                    <th>Certification Scope</th>
+                    <th>Certificate Report Number</th>
+                    <th>Expiry Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in reportsitems)
+                {
+                    var reportsitem = item.Value<string>("certificateReportNumber").Trim().ToLower();
+                    if (reportsitem == normalizedSearchQuery)
+                    {
+                        <tr>
+                            <td>@item.Value("auditSiteName")</td>
+                            <td>@item.Value("siteAddress")</td>
+                            <td>@item.Value("standardName")</td>
+                            <td>@item.Value("certificationScope")</td>
+                            <td>@item.Value("certificateReportNumber")</td>
+                            <td>@item.Value("expiryDate")</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>There is no matching result with the search input. Please try a new search.</p>
+    }
+}

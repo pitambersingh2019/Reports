@@ -1,0 +1,8 @@
+﻿<div ng-controller="customExcelReportUploadController" style="max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #ccc; border-radius: 5px;">
+    <h1 style="text-align: center;">Upload Excel Report</h1>
+    <input type="file" id="fileInput" accept="{{allowedFileTypes}}" style="margin-bottom: 10px; margin-top: 46px; margin-left: 112px; "  />
+    <button type="button" ng-click="uploadFile()" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 3px; cursor: pointer; margin-top: 34px;" >Upload</button>
+    <div ng-if="fileUploaded" style="margin-top: 10px; background-color: #f0f0f0; padding: 10px; border-radius: 3px;">
+        <p style="color: #4CAF50; font-weight: bold; margin-left: 201px;">File uploaded successfully!</p>
+    </div>
+</div>
